@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>pl.devcoffee</groupId>
 	<artifactId>configlands</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 
 	<organization>
 		<name>Piotr Raszkowski</name>
@@ -46,7 +44,7 @@
 		<connection>scm:git:git@github.com:PiotrRaszkowski/configlands.git</connection>
 		<url>scm:git:git@github.com:PiotrRaszkowski/configlands.git</url>
 		<developerConnection>scm:git:git@github.com:PiotrRaszkowski/configlands.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>v0.1</tag>
 	</scm>
 
 	<properties>
