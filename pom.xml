@@ -8,6 +8,10 @@
 	<artifactId>configlands</artifactId>
 	<version>0.1-SNAPSHOT</version>
 
+	<name>Configlands</name>
+	<description>Minimalistic configuration provider for Java EE applications.</description>
+	<url>https://github.com/PiotrRaszkowski/configlands</url>
+
 	<organization>
 		<name>Piotr Raszkowski</name>
 		<url>http://raszkowski.pl</url>
