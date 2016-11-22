@@ -4,9 +4,9 @@
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>pl.raszkowski</groupId>
+	<groupId>pl.devcoffee</groupId>
 	<artifactId>configlands</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>0.1-SNAPSHOT</version>
 
 	<organization>
 		<name>Piotr Raszkowski</name>
@@ -43,9 +43,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:PiotrRaszkowski/sport-trackers-connector.git</connection>
-		<url>scm:git:git@github.com:PiotrRaszkowski/sport-trackers-connector.git</url>
-		<developerConnection>scm:git:git@github.com:PiotrRaszkowski/sport-trackers-connector.git</developerConnection>
+		<connection>scm:git:git@github.com:PiotrRaszkowski/configlands.git</connection>
+		<url>scm:git:git@github.com:PiotrRaszkowski/configlands.git</url>
+		<developerConnection>scm:git:git@github.com:PiotrRaszkowski/configlands.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
