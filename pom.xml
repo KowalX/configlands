@@ -4,7 +4,7 @@
 
 	<groupId>pl.devcoffee</groupId>
 	<artifactId>configlands</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 
 	<name>Configlands</name>
 	<description>Minimalistic configuration provider for Java EE applications.</description>
