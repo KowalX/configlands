@@ -34,7 +34,6 @@ public enum ConfigurationKey implements ConfigurableKey {
 
 ### Implement the ConfigurationProvidable interface
 
-_Example_
 ```java
 public class Configurator implements ConfigurationProvidable {
 
