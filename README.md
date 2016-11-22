@@ -48,7 +48,7 @@ public class Configurator implements ConfigurationProvidable {
 
 ### Inject configuration value
 
-#### String
+#### 1. String
 
 ```java
 @Inject
@@ -57,7 +57,7 @@ public class Configurator implements ConfigurationProvidable {
 private Instance<String> defaultTimeZone;
 ```
 
-#### Long
+#### 2. Long
 
 ```java
 @Inject
@@ -66,7 +66,7 @@ private Instance<String> defaultTimeZone;
 private Long restartInSeconds;
 ```
 
-#### Integer
+#### 3. Integer
 
 ```java
 @Inject
@@ -75,7 +75,7 @@ private Long restartInSeconds;
 private Integer defaultTimeZone;
 ```
 
-#### Path
+#### 4. Path
 
 ```java
 @Inject
@@ -84,7 +84,7 @@ private Integer defaultTimeZone;
 private Instance<Path> uploadLocation;
 ```
 
-#### Path with java.tmp.dir
+#### 5. Path with java.tmp.dir
 
 ##### Precondition
 ConfigurationKey.UPLOAD_LOCATION = "java.io.tmpdir/uploaded" 
@@ -101,7 +101,7 @@ private Path uploadLocation;
 
 uploadedLocation injected as System.getProperty(java.io.tmpdir)/uploaded
 
-#### Paths
+#### 6. Paths
 
 ```java
 @Inject
