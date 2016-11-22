@@ -43,9 +43,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:PiotrRaszkowski/configlands.git</connection>
-		<url>scm:git:git@github.com:PiotrRaszkowski/configlands.git</url>
-		<developerConnection>scm:git:git@github.com:PiotrRaszkowski/configlands.git</developerConnection>
+		<connection>scm:git:https://github.com/PiotrRaszkowski/configlands</connection>
+		<url>scm:git:https://github.com/PiotrRaszkowski/configlands</url>
+		<developerConnection>scm:git:https://github.com/PiotrRaszkowski/configlands</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
