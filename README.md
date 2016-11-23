@@ -1,6 +1,15 @@
 # configlands
 Minimalistic configuration provider for Java EE applications.
 
+## Installation
+```xml
+<dependency>
+	<groupId>pl.devcoffee</groupId>
+	<artifactId>configlands</artifactId>
+	<version>[LATEST_RELEASE]</version>
+</dependency>
+```
+
 ## Configuration
 
 ### Create (overwrite) your enum with configuration values
